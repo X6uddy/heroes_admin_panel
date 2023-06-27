@@ -1,0 +1,55 @@
+{
+  "heroes": [
+    {
+      "id": "1f163cec-c25f-4c5a-972c-3c603424a45a",
+      "name": "1",
+      "description": "умею все",
+      "element": "fire"
+    },
+    {
+      "id": "b6100ca7-4098-4165-b3ce-06a96ec8b949",
+      "name": "2",
+      "description": "ничего не умею",
+      "element": "water"
+    },
+    {
+      "id": "860084bb-c264-4235-a85b-528ed4031a93",
+      "name": "3",
+      "description": "что-то да умею",
+      "element": "wind"
+    },
+    {
+      "id": "682a7aed-2d68-444d-a12a-021e9859b6e6",
+      "name": "4",
+      "description": "почти все умею",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
